@@ -12,7 +12,7 @@
 
 [SQL Analysis Code](https://github.com/sohamgujare20/Blinkit-Data-Analysis-SQL/blob/main/Blinkit_Data_Analysis.sql)
 
-[Power BI Dashboard](https://github.com/sohamgujare20/Blinkit-Data-Analysis-SQL/blob/main/Blinkit-analysis.pbix)
+[Power BI Dashboard](https://github.com/sohamgujare20/Blinkit-Data-Analysis-MYSQL/blob/main/Blinkit-analysis.pbix)
 
 - **Business Problem:** To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power Bl. They need a robust and scalable data analytics solution to handle the amount of data and uncover valuable patterns and trends.
 
