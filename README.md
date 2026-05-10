@@ -8,7 +8,7 @@
 
 **Tools Used :** SQL, Excel, Power BI
 
-[Dataset Used](https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset?select=BlinkIT-Grocery-Data.csv)
+[Dataset Used](https://github.com/sohamgujare20/Blinkit-Data-Analysis-MYSQL/blob/main/BlinkIT-Grocery-Data.csv)
 
 [SQL Analysis Code](https://github.com/Gaurabh007/Blinkit-Data-Analysis-SQL/blob/main/Blinkit_Data_Analysis.sql)
 
