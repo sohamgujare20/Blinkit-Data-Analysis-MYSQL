@@ -10,7 +10,7 @@
 
 [Dataset Used](https://github.com/sohamgujare20/Blinkit-Data-Analysis-MYSQL/blob/main/BlinkIT-Grocery-Data.csv)
 
-[SQL Analysis Code](https://github.com/Gaurabh007/Blinkit-Data-Analysis-SQL/blob/main/Blinkit_Data_Analysis.sql)
+[SQL Analysis Code](https://github.com/sohamgujare20/Blinkit-Data-Analysis-SQL/blob/main/Blinkit_Data_Analysis.sql)
 
 [Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=84987c39-014f-4f93-93d9-1d22346a7933&autoAuth=true&ctid=9c57347d-760c-410c-8ea1-f1c42e38522d)
 <img width="1378" height="770" alt="image" src="https://github.com/user-attachments/assets/405f58ad-954d-4827-8fe3-850326877ca2" />
